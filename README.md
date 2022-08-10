@@ -1,3 +1,8 @@
+This server runs on port 3900.
+The server connects to mongoDB via mongoose given it is installed on localhost.
+
+Run dev to start nodemon.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
