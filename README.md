@@ -3,6 +3,8 @@ The server connects to mongoDB via mongoose given it is installed on localhost.
 
 Run dev to start nodemon.
 
+Use this Repo with the "card-CLI" Front-End Repo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
